@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+dist/
+build/
+
+# EAS
+*.ipa
+*.apk
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.log
